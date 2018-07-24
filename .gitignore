@@ -3,3 +3,6 @@
 terraform.tfplan
 terraform.tfstate.backup
 terraform.tfstate
+
+terraform.tfvars
+*.tfvars
